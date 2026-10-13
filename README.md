@@ -1,2 +1,2 @@
 # c-projects
-Place where i can store my c programming projects.
+A collection of my C programming practice and projects
