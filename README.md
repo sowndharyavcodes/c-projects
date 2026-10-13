@@ -1,6 +1,6 @@
 # c-projects
 A collection of my C programming practice and projects
-Hi, I'm an ECE Student 👋
+Hi, I'm Sowndharya V , an ECE Student 👋
 
 🎓 First-year Electronics and Communication Engineering student
 
